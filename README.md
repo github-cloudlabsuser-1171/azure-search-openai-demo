@@ -1,5 +1,5 @@
 ---
-name: ChatGPT + Enterprise data
+name: ChatGPT + Enterprise data version
 description: Chat with your data using OpenAI and AI Search.
 languages:
 - python
